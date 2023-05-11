@@ -2,8 +2,6 @@
 
 ## All the datasets can also be viewed over [kaggle](https://www.kaggle.com/datasets/adityaazad79/all-t20-international-datasets).
 
-***DISCLAIMER*** - I have scraped the data from [ESPN](https://www.espncricinfo.com) and guarantee of the authenticity of the same can't be assured.
-
 ### Connect and follow me over [linkedIn](https://www.linkedin.com/in/adityaazad79)
 
 ### Follow me over [Kaggle](https://www.kaggle.com/adityaazad79)
